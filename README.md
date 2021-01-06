@@ -1,39 +1,64 @@
-## Welcome to GitHub Pages
+# Eric Pham
 
-You can use the [editor on GitHub](https://github.com/ercpham/ercpham.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Hello! My name is Eric, and this is my GitHub page for my CSE 110 assignment.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Section Links
 
-### Markdown
+[About Me](#about-me)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Completing the Assignment](#completing-the-assignment)
 
-```markdown
-Syntax highlighted code block
+[Code](#code)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+### About Me
 ![Image](profilepic.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This is a rather large picture of myself. I don't update it very often, but you can find more pictures of me [on my Instagram](https://www.instagram.com/the_eric_pham/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ercpham/ercpham.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Completing the Assignment
 
-### Support or Contact
+The requirements for this assignment specify _"Pictures"_ in plural, so I guess I'll add another one.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](howling.jpg)
+
+That's a good looking chicken sandwich. It was from **Howling Ray's in L.A**. I highly recommend, probably the best chicken sandwich I've ever had.
+
+> "...Probably the best chicken sandwich I've ever had"
+> 
+> \- Me
+
+### Code
+
+I'm currently pursuing a B.S. in computer science at UCSD, so naturally, I code.
+
+Here's a block of code for the extremely slow way to get a number from the Fibonnaci sequence.
+
+```javascript
+const fib = (n) => {
+    if (n === 1)
+        return 1;
+    if (n === 2)
+        return 1;
+    return fib(n-1) + fib(n-2);
+}
+```
+
+What a great demonstration of my skills.
+
+_Psst... if you want a surprise click on_ [this link](./randomtext.txt)
+
+
+### Lists
+
+Here are some reasons why lists are so great
+1. They keep things organized
+2. People are very familiar with lists
+3. They allow you to complete the assignment
+4. Need I say more?
+
+### TODO
+
+- [x] Finish this page
+- [ ] Get a job
+- [ ] Eat lunch
