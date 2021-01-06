@@ -10,6 +10,10 @@
 
 [Code](#code)
 
+[Lists](#lists)
+
+[TODO](#todo)
+
 ### About Me
 ![Image](profilepic.jpg)
 
@@ -32,7 +36,7 @@ That's a good looking chicken sandwich. It was from **Howling Ray's in L.A**. I 
 
 I'm currently pursuing a B.S. in computer science at UCSD, so naturally, I code.
 
-Here's a block of code for the extremely slow way to get a number from the Fibonnaci sequence.
+Here's a block of code for the extremely slow way to get the nth number from the Fibonnaci sequence.
 
 ```javascript
 const fib = (n) => {
@@ -61,4 +65,4 @@ Here are some reasons why lists are so great
 
 - [x] Finish this page
 - [ ] Get a job
-- [ ] Eat lunch
+- [x] Eat lunch
