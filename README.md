@@ -48,15 +48,20 @@ const fib = (n) => {
 }
 ```
 
-What a great demonstration of my skills.
+What a ~~great~~ demonstration of my skills.
 
 _Psst... if you want a surprise click on_ [this link](./randomtext.txt)
 
 
 ### Lists
+- Lists were invented about 200 years ago
+- That point above is definitely not true
 
 Here are some reasons why lists are so great
 1. They keep things organized
+   - Not only can they list ideas, they can list sub-ideas
+     - Even sub-ideas of those sub-ideas
+   - Lists have structure
 2. People are very familiar with lists
 3. They allow you to complete the assignment
 4. Need I say more?
